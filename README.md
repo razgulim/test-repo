@@ -5,3 +5,6 @@
 
 # Further ideas
 I can also use Github for teaching, but I'm not sure how yet. 
+
+## A note
+la command didn't work for me so I used ls -la.
