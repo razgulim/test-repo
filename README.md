@@ -8,3 +8,7 @@ I can also use Github for teaching, but I'm not sure how yet.
 
 ## A note
 la command didn't work for me so I used ls -la.
+
+## Local development
+
+I tryed to connect GPT3 model to my local Python but it seems this application is not usable for free. 
